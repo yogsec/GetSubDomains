@@ -15,6 +15,7 @@ Ensure you have the required dependencies installed:
 ```bash
 sudo apt install jq curl -y  # Debian-based systems
 brew install jq curl          # macOS (using Homebrew)
+git clone https://github.com/yogsec/GetSubDomains
 ```
 
 ## Usage
