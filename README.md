@@ -3,6 +3,7 @@
 ## Description
 GetSubDomains is a fast and efficient Bash tool for retrieving subdomains of a given domain using the crt.sh certificate transparency logs. This tool is useful for security researchers, penetration testers, and bug bounty hunters to quickly enumerate subdomains with minimal overhead.
 
+![image](https://github.com/yogsec/GetSubDomains/blob/main/Screenshot%20from%202025-02-07%2018-29-41.png?raw=true)
 ## Features
 - 🔍 Fetch subdomains quickly from crt.sh
 - 📂 Option to save results to a file
