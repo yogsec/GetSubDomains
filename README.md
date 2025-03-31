@@ -14,6 +14,7 @@ GetSubDomains is a fast and efficient Bash tool for retrieving subdomains of a g
 </div>
 
 <br>
+
 ![image](https://github.com/yogsec/GetSubDomains/blob/main/Screenshot%20from%202025-02-07%2018-29-41.png?raw=true)
 
 ---
